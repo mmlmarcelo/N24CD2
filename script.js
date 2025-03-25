@@ -1,1 +1,1 @@
-console.log
+console.log ("eu não sei programar em javascript");
